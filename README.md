@@ -12,4 +12,4 @@ Username:STW
 Password:123456
 ###### Login info 2
 Username:Admin
-Password:Admin123456
+Password:Admin1234
