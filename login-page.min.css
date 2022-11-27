@@ -1,0 +1,11 @@
+.lgn{width:100%;height:100%;position:fixed;left:0;top:0;z-index:9999999999;background:flat;background-color:#f3f5fe;background-size:400% 400%;animation:gradient 10s ease infinite;font-family: Google Sans Text,Arial,Helvetica,sans-serif;}@keyframes gradient{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}.lgn.hidden{display:none}#lgnid{position:absolute;border-radius:8px;width:400px;padding:30px;display:block;transform:translate(-50%,-50%);top:50%;left:50%;background:flat;background-color:#fff;transition:all .5s ease;border-radius:20px}.lgnttl{font-size:25px;font-weight:700;text-align:center}#lgnid input[type=text],#lgnid input[type=password]{padding:10px;border-radius:40px;margin:10px 0;width:95%;border:1px solid rgba(255,255,255,.2);background:#d3d3d3}#username::-webkit-input-placeholder,#password::-webkit-input-placeholder{color:#000}#lgnid input[type=text]:focus,#lgnid input[type=password]:focus{outline:none}button.login{color:#fff;padding:10px;border-radius:40px;border:none;outline:none;background:#9c27b0;transition:1.5s}
+button.login:hover{background-color:red;transition:.5s}@media screen and (max-width:480px){#lgnid{width:350px}}.red{color:red}
+.center{
+    margin:20px;
+    left: 50%;
+    text-align: center;
+    position: absolute;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+button.login:hover{background-color:red;transition:.5s}@media screen and (max-width:480px){#lgnid{width:350px}}.red{color:red}
