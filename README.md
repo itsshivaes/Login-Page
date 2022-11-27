@@ -8,8 +8,8 @@ Modern Login page through JS, CSS and HTML
 * Supports Multiple login
 ## Default login info
 ###### Login info 1
-Username:STW
-Password:123456
+Username: **STW**
+Password: **123456**
 ###### Login info 2
-Username:Admin
-Password:Admin1234
+Username: **Admin**
+Password: **Admin1234**
