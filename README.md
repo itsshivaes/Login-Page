@@ -17,7 +17,7 @@ Password: **Admin1234**
 * Open **login-page.min.js** using any text editor
 * Then find **[{username:"STW",password:"123456"},{ username: 'Admin', password: 'Admin1234' }]**
 * Then change **STW** and **Admin** with a random username then change **123456** and **Admin1234** with a random password
-## Need only one user login
+## If only need one user login
 If you only need one user login then just remove **,{ username: 'Admin', password: 'Admin1234' }**
 ## For adding more user login
 **,{ username: 'username_here', password: 'password_here' }**
