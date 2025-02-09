@@ -1,7 +1,7 @@
 # Login-Page
 Modern Login page through JS, CSS and HTML
 </hr>
-<img alt='Login Page demo IMG' src='https://github.com/shivaes207/Login-Page/blob/main/login-page.png?raw=true'/>
+<img style="border-radius:20px" alt='Login Page demo IMG' src='https://github.com/itsshivaes/Login-Page/blob/main/login-page.png?raw=true'/>
 </hr>
 
 ## Highlighting feature
